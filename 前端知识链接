@@ -1,0 +1,404 @@
+<p>前端开发知识传送门v1.0</p>
+
+<p>综合类</p>
+<p><a href="https://www.zhihu.com/question/20402689">知乎：程序员应该如何注意身体健康？</a></p>
+<p><a href="http://v.163.com/special/opencourse/bianchengdaolun.html">麻省理工学院公开课：计算机科学及编程导论</a></p>
+<p><a href="https://github.com/JacksonTian/fks">前端知识结构</a></p>
+<p><a href="https://github.com/unruledboy/WebFrontEndStack">Web前端开发大系概览</a></p>
+<p><a href="http://www.cnblogs.com/unruledboy/p/WebFrontEndStack.html">Web前端开发大系概览</span>-中文版</a></p>
+<p><a href="https://github.com/Front-End-Developers-Hunan/Front-End-Develop-Guide">Front-End-Develop-Guide 前端开发指南</a></p>
+<p><a href="https://raw.githubusercontent.com/unruledboy/WebFrontEndStack/master/Web%20Front%20End%20Stack.png">Web Front-end Stack v2.2</a>（图）</span></p>
+<p><a href="https://github.com/justjavac/free-programming-books-zh_CN">免费的编程中文书籍索引</a></p>
+<p><a href="https://github.com/dypsilon/frontend-dev-bookmarks">前端书籍</a></p>
+<p><a href="https://github.com/vhf/free-programming-books">前端免费书籍大全</a></p>
+<p><a href="https://github.com/justjavac/free-programming-books-zh_CN">免费的编程中文书籍索引</a></p>
+<p><a href="https://li-xinyang.gitbooks.io/frontend-notebook/content/">前端开发笔记本</a></p>
+<p><a href="https://dwqs.gitbooks.io/frontenddevhandbook/content/">前端开发者手册</a></p>
+
+<p><span>入门类</span></p>
+<p><a href="http://www.cnblogs.com/jikey/p/3613082.html">前端入门教程</a></p>
+<p><a href="https://github.com/qiu-deqing/FE-learning">结合个人经历总结的前端入门方法</a></p>
+<p>a. JS</p>
+<p><a href="http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000">瘳雪峰的</span>Javascript教程</a></p>
+<p><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript">重新介绍</span> JavaScript（</span>JS 教程）</a></p>
+<p><a href="http://segmentfault.com/a/1190000002640298">JavaScript中的</span>this陷阱的最全收集</span>--<span>没有之一</a></p>
+<p><a href="https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html">JS函数式编程指南</a></p>
+<p><a href="http://liubin.github.io/promises-book/">JavaScript Promise迷你书（中文版）</a></p>
+<p><a href="http://www.imooc.com/view/11">jQuery基础教程</a></p>
+<p>b. css</p>
+<p><a href="http://tympanus.net/codrops/css_reference/">CSS 语法参考</a></p>
+<p><a href="http://isux.tencent.com/css3/index.html">CSS3动画手册</a></p>
+<p><a href="http://linxz.github.io/tianyizone/">志爷</span>css小工具集合</a></p>
+<p><a href="http://www.note12.com/category/blog/2014-6-5/538fe0a9f786f1b7019a4dfb">css3 js 移动大杂烩</a></p>
+<p><a href="http://bouncejs.com/">bouncejs 触摸库</a></p>
+<p><a href="http://fian.my.id/Waves/">css3 按钮动画</a></p>
+<p><a href="http://daneden.github.io/animate.css/">animate.css</a></p>
+<p><a href="http://www.alloyteam.com/2015/10/8536/">全局</span>CSS的终结</span>(狗带</span>)[译</span>]</a></p>
+
+<p><span>工具类</span></p>
+<p><a href="http://www.imooc.com/learn/93">css sprite 雪碧图制作</a></p>
+<p><a href="http://www.imooc.com/learn/390">版本控制入门</span> – <span>搬进</span> Github</a></p>
+
+<p><span>API:</span></p>
+<p>a. 开发中心</span></p>
+<p><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript">mozilla js参考</a></p>
+<p><a href="https://developer.chrome.com/extensions/api_index.html">chrome开发中心（</span>chrome的内核已转向</span>blink<span>）</a></p>
+<p><a href="https://developer.apple.com/library/safari/navigation">safari开发中心</a></p>
+<p><a href="https://msdn.microsoft.com/zh-cn/library/d1et7k7c(v=vs.94).aspx">microsoft
+js参考</a></p>
+<p><a href="http://sanshi.me/articles/JavaScript-Garden-CN/html/index.html">js秘密花园</a></p>
+<p><a href="http://bonsaiden.github.io/JavaScript-Garden/zh/">js秘密花园</a></p>
+<p>b.综合搜索</span></p>
+<p><a href="http://www.javascripting.com/">javascripting</a></p>
+<p><a href="http://microjs.com/">各种流行库搜索</a></p>
+<p>c.综合</span>API</p>
+<p><a href="http://www.runoob.com/">runoob.com-包含各种</span>API集合</a></p>
+<p><a href="http://tool.oschina.net/apidocs">开源中国在线</span>API<span>文档合集</a></p>
+<p><a href="http://devdocs.io/">devdocs</a>&nbsp;英文综合</span>API网站</span></p>
+<p>d. jQuery</p>
+<p><a href="http://www.jquery123.com/">jQuery API 中文文档</a></p>
+<p><a href="http://hemin.cn/jq/">hemin 在线版</a></p>
+<p><a href="http://www.css88.com/jqapi-1.9/on/">css88 jq api</a></p>
+<p><a href="http://www.css88.com/jquery-ui-api/">css88 jqui api</a></p>
+<p><a href="http://learn.jquery.com/">学习</span>jquery</a></p>
+<p><a href="http://james.padolsey.com/jquery/">jquery 源码查找</a></p>
+<p>e. ECMAscript</p>
+<p><a href="https://leanpub.com/understandinges6/read">Understanding ECMAScript 6 - Nicholas C. Zakas</a></p>
+<p><a href="https://leanpub.com/exploring-es6/read">exploring-es6</a></p>
+<p><a href="https://github.com/es6-org/exploring-es6">exploring-es6翻译</a></p>
+<p><a href="http://es6-org.github.io/exploring-es6/">exploring-es6翻译后预览</a></p>
+<p><a href="http://es6.ruanyifeng.com/">阮一峰</span> es6</a></p>
+<p><a href="http://javascript.ruanyifeng.com/">阮一峰</span> Javascript</a></p>
+<p><a href="http://yanhaijing.com/es5/">ECMA-262，第</span> 5 版</a></p>
+<p><a href="http://es5.github.io/">es5</a></p>
+
+<p><span>Angularjs</span></p>
+<p><a href="https://github.com/dolymood/AngularLearning">Angular.js的一些学习资源</a></p>
+<p><a href="http://angularjs.cn/">angularjs中文社区</a></p>
+<p><a href="http://www.cnblogs.com/xuwenmin888/p/3739096.html">Angularjs源码学习</a></p>
+<p><a href="http://www.ifeenan.com/?c=AngularJS">Angularjs源码学习</a></p>
+<p><a href="http://angular-ui.github.io/bootstrap/">angular对</span>bootstrap的封装</a></p>
+<p><a href="https://cnodejs.org/topic/51404e0f069911196d2e3923">angularjs + nodejs</a></p>
+<p><a href="https://www.zhihu.com/question/21497720">关于</span> AngularJS 框架的使用有哪些经验值得分享？</a></p>
+<p><a href="http://blog.jobbole.com/46589/">有</span>jQuery背景，该如何用</span>AngularJS编程思想</a></p>
+<p><a href="http://www.infoq.com/cn/news/2013/02/angular-web-app">AngularJS 最佳实践</a></p>
+<p><a href="http://www.lovelucy.info/angularjs-best-practices.html">Angular的一些扩展指令</a></p>
+<p><a href="https://github.com/Pasvaz/bindonce">Angular数据绑定原理</a></p>
+<p><a href="https://github.com/angular-ui/">一些扩展</span>Angular UI<span>组件</a></p>
+<p><a href="http://voidcanvas.com/emberjs-vs-angularjs-performance-testing/">Ember和</span>AngularJS的性能测试</a></p>
+<p><a href="http://www.cnblogs.com/powertoolsteam/p/angularjs-introdection.html">带你走近</span>AngularJS - 基本功能介绍</a></p>
+<p><a href="http://angular.duapp.com/docs/guide">Angularjs开发指南</a></p>
+<p><a href="http://www.cnblogs.com/amosli/p/3710648.html">Angularjs学习</a></p>
+<p><a href="http://www.rainweb.cn/article/angularjs-jquery.html">不要带着</span>jQuery的思维去学习</span>AngularJS</a></p>
+<p><a href="http://wangjiatao.diandian.com/?tag=angularjs">angularjs 学习笔记</a></p>
+<p><a href="http://www.angularjs.cn/T008">angularjs 开发指南</a></p>
+<p><a href="https://github.com/jmcunningham/AngularJS-Learning">angularjs 英文资料</a></p>
+<p><a href="http://angular-ui.github.io/bootstrap/">angular bootstrap</a></p>
+<p><a href="https://github.com/opitzconsulting/jquery-mobile-angular-adapter">angular jq mobile</a></p>
+<p><a href="http://mgcrea.github.io/angular-strap/">angular ui</a></p>
+<p><a href="http://www.tuicool.com/articles/7ZZVr2">整合</span>jQuery Mobile+AngularJS经验谈</a></p>
+<p><a href="http://blog.jobbole.com/46589/">有</span>jQuery背景，该如何用</span>AngularJS编程思想</a></p>
+<p><a href="http://each.sinaapp.com/angular/">AngularJS在线教程</a></p>
+<p><a href="http://www.zouyesheng.com/angular.html">angular学习笔记</a></p>
+
+<p><span>React</span></p>
+<p><a href="http://www.react-china.org/">react.js 中文论坛</a></p>
+<p><a href="https://facebook.github.io/react/index.html">react.js官方网址</a></p>
+<p><a href="https://facebook.github.io/react/docs/getting-started.html">react.js 官方文档</a></p>
+<p><a href="http://www.ruanyifeng.com/blog/2015/03/react.html">React入门实例教程</span> - 阮一峰</a></p>
+<p><a href="http://www.infoq.com/cn/articles/react-art-of-simplity/">深入浅出</span>React（一）：</span>React<span>的设计哲学</span> - 简单之美</a></p>
+<p><a href="http://www.cocoachina.com/webapp/20150721/12692.html">一看就懂的</span>ReactJs<span>入门教程（精华版）</a></p>
+<p><a href="http://react-china.org/">React china 中文社区</a></p>
+<p><a href="http://www.infoq.com/cn/articles/react-art-of-simplity">深入浅出</span>React<span>（系列）</a></p>
+<p><a href="https://github.com/react-guide/react-basic">React 设计思想</a></p>
+<p><a href="http://material-ui.com/#/">react.js material UI</a></p>
+<p><a href="http://touchstonejs.io/">react.js TouchstoneJS UI</a></p>
+<p><a href="http://amazeui.org/react/">react.js amazeui UI</a></p>
+<p><a href="http://wiki.jikexueyuan.com/project/react-native/">ReactNative 中文版</a></p>
+<p><a href="http://www.html-js.com/article/Fakefish%203053">Webpack和</span> React 小书</span> - 前端乱炖</a></p>
+<p><a href="https://fakefish.github.io/react-webpack-cookbook/">Webpack和</span> React 小书</span> - gitbook</a></p>
+<p><a href="https://github.com/webpack/webpack">webpack</a></p>
+<p><a href="http://html-js.com/article/3009">Webpack，</span>101<span>入门体验</a></p>
+<p><a href="http://html-js.com/article/3113">webpack入门教程</a></p>
+<p><a href="http://segmentfault.com/a/1190000003499526">基于</span>webpack搭建前端工程解决方案探索</a></p>
+<p><a href="http://www.piliyu.com/">React原创实战视频教程</a></p>
+
+
+<p><span>Requriejs</span></p>
+<p><a href="http://www.ruanyifeng.com/blog/2012/10/javascript_module.html">Javascript模块化编程（一）：模块的写法</a></p>
+<p><a href="http://www.ruanyifeng.com/blog/2012/10/asynchronous_module_definition.html">Javascript模块化编程（二）：</span>AMD规范</a></p>
+<p><a href="http://www.ruanyifeng.com/blog/2012/11/require_js.html">Javascript模块化编程（三）：</span>require.js的用法</a></p>
+<p><a href="http://www.cnblogs.com/snandy/archive/2012/05/22/2513652.html">RequireJS入门（一）</a></p>
+<p><a href="http://www.cnblogs.com/snandy/archive/2012/05/23/2513712.html">RequireJS入门（二）</a></p>
+<p><a href="http://www.cnblogs.com/snandy/archive/2012/06/08/2538001.html">RequireJS进阶（三）</a></p>
+<p><a href="http://www.cnblogs.com/yexiaochai/p/3632580.html">requrie源码学习</a></p>
+<p><a href="http://www.oschina.net/translate/getting-started-with-the-requirejs-library">requrie入门指南</a></p>
+<p><a href="http://www.cnblogs.com/yexiaochai/p/3214926.html">requrieJS学习笔记</a></p>
+<p><a href="http://cyj.me/why-seajs/requirejs/">requriejs 其一</a></p>
+<p><a href="http://www.cnblogs.com/yexiaochai/p/3221081.html">require backbone结合</a></p>
+
+<p><span>Less,Sass</span></p>
+<p><a href="http://www.w3cplus.com/sassguide/">sass</a></p>
+<p><a href="http://www.sass.hk/">sass教程</span>-sass中国</a></p>
+<p><a href="http://sass.bootcss.com/">Sass 中文文档</a></p>
+<p><a href="http://less.bootcss.com/">less</a></p>
+
+<p><span>兼容性</span></p>
+<p><a href="http://kangax.github.io/compat-table/es6/">esma 兼容列表</a></p>
+<p><a href="http://jigsaw.w3.org/css-validator/validator.html.zh-cn">W3C CSS验证服务</a></p>
+<p><a href="http://caniuse.com/#index">caniuse</a></p>
+<p><a href="http://csscreator.com/properties">csscreator</a></p>
+<p><a href="https://msdn.microsoft.com/zh-cn/library/cc351024(v=vs.85).aspx">microsoft</a></p>
+<p><a href="http://www.responsinator.com/">在线测兼容</span>-移动端</a></p>
+<p><a href="https://www.manymo.com/emulators">emulators</a></p>
+
+<p><span>UI</span></p>
+<p><a href="http://v3.bootcss.com/">bootcss</a></p>
+<p><a href="http://www.w3cplus.com/MetroUICSS/">MetroUICSS</a></p>
+<p><a href="http://semantic-ui.com/">semantic</a></p>
+<p><a href="http://alexwolfe.github.io/Buttons/">Buttons</a></p>
+<p><a href="http://hiloki.github.io/kitecss/">kitecss</a></p>
+<p><a href="http://www.pintuer.com/">pintuer</a></p>
+<p><a href="http://amazeui.org/">amazeui</a></p>
+<p><a href="http://www.worldhello.net/gotgithub/index.html">worldhello</a></p>
+<p><a href="http://igit.linuxtoy.org/contents.html">linuxtoy</a></p>
+<p><a href="http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/">gitmagic</a></p>
+<p><a href="http://rogerdudler.github.io/git-guide/index.zh.html">rogerdudler</a></p>
+<p><a href="http://gitref.justjavac.com/">gitref</a></p>
+<p><a href="http://git-scm.com/book/zh">book</a></p>
+<p><a href="http://gogojimmy.net/2012/01/17/how-to-use-git-1-git-basic/">gogojimmy</a></p>
+<p><a href="http://dcloudio.github.io/mui/">MUI-最接近原生</span>APP体验的高性能前端框架</a></p>
+<p><a href="http://www.bootcss.com/">Bootstrap</a></p>
+<p><a href="http://smartui.chinamzz.com/">Smart UI</a></p>
+
+<p><span>HTTP</span></p>
+<p><a href="http://segmentfault.com/bookmark/1230000002521721">HTTP API 设计指南</a></p>
+
+<p><span>正则</span></p>
+<p><a href="http://segmentfault.com/a/1190000002471140">JS正则表达式元字符</a></p>
+<p><a href="http://deerchao.net/tutorials/regex/regex.htm">正则表达式</span>30分钟入门教程</a></p>
+<p><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Regular_Expressions">MDN-正则表达式</a></p>
+<p><a href="http://javascript.ruanyifeng.com/stdlib/regexp.html">ruanyifeng- RegExp对象</a></p>
+<p><a href="http://div.io/topic/764?page=1">小胡子哥</span> - 进阶正则表达式</a></p>
+<p><a href="https://github.com/Cedriking/is.js/blob/master/is.js">is.js</a></p>
+<p><a href="http://regexper.com/">正则在线测试</a></p>
+
+<p><span>开发规范</span></p>
+<p><a href="http://alloyteam.github.io/CodeGuide">通过分析</span>github代码库总结出来的工程师代码书写习惯</a></p>
+<p><a href="http://codeguide.bootcss.com/">HTML&amp;CSS编码规范</span> by @mdo</a></p>
+<p><a href="http://www.alloyteam.com/2011/10/107/">团队合作的</span>css命名规范</span>-腾讯</span>AlloyTeam前端团队</a></p>
+<p><a href="http://yuwenhui.github.io/">前端编码规范之</span>js - by yuwenhui</a></p>
+<p><a href="http://www.cnblogs.com/hustskyking/p/javascript-spec.html">前端编码规范之</span>js - by 李靖</a></p>
+<p><a href="http://zhibimo.com/read/Ashu/front-end-style-guide/">前端开发规范手册</a></p>
+<p><a href="https://github.com/yuche/javascript#table-of-contents">Airbnb JavaScript 编码规范（简体中文版）</a></p>
+<p><a href="http://www.zhihu.com/question/20351507">AMD与</span>CMD<span>规范的区别</a></p>
+<p><a href="http://www.cnblogs.com/tugenhua0707/p/3507957.html">AMD与</span>CMD<span>规范的区别</a></p>
+<p><a href="http://docs.kissyui.com/1.4/docs/html/tutorials/style-guide/kissy-source-style.html">KISSY 源码规范</a></p>
+<p><a href="http://codeguide.bootcss.com/">bt编码规范</a></p>
+<p><a href="https://github.com/Suxiaogang/Code_Guide">规范加强版</a></p>
+<p><a href="http://blog.jobbole.com/79075/">前端代码规范</span><span> </span>及</span><span> </span>最佳实践</a></p>
+<p><a href="http://coderlmn.github.io/code-standards/">百度前端规范</a></p>
+<p><a href="http://blog.jobbole.com/79484/">JavaScript 风格指南</span>/编码规范（</span>Airbnb<span>公司版）</a></p>
+<p><a href="http://nec.netease.com/standard">网易前端开发规范</a></p>
+<p><a href="http://www.75team.com/archives/1049">css模块</a></p>
+<p><a href="https://github.com/ecomfe/spec">前端规范资源列表</a></p>
+
+<p><span>Javascript</span><span>算法</span></p>
+<p><a href="https://github.com/Ralph-Wang/algorithm.in.js">数据结构与算法</span> JavaScript 描述</span>. 章节练习</a></p>
+<p><a href="https://github.com/twobin/twobinSort">常见排序算法（</span>JS版）</a></p>
+<p><a href="https://github.com/luofei2011/jsAgm/blob/master/js/sort.js">经典排序</a></p>
+<p><a href="https://github.com/hechangmin/jssort">常见排序算法</span>-js版本</a></p>
+<p><a href="https://github.com/lightningtgc/JavaScript-Algorithms">JavaScript 算法与数据结构</span><span> </span>精华集</a></p>
+<p><a href="http://www.nowcoder.com/live/courses">面试常考算法题精讲</a></p>
+
+<p><span>JSON</span></p>
+<p><a href="http://beta.json-generator.com/">模拟生成</span>JSON数据</a></p>
+<p><a href="http://jsonp.afeld.me/">返回跨域</span>JSONAPI</a></p>
+
+<p><span>Html5</span></p>
+<p><a href="http://www.zhihu.com/question/24398907">HTML5 有哪些让你惊艳的</span> demo？</a></p>
+
+<p><span>Nodejs</span></p>
+<p><a href="http://liuqing.pw/">nodejs 篇幅比较巨大</a></p>
+<p><a href="https://github.com/alsotang/node-lessons">Node.js 包教不包会</a></p>
+<p><a href="http://www.rainweb.cn/article/category/Nodejs">篇幅比较少</a></p>
+<p><a href="http://www.w3cfuns.com/article-5598538-1-1.html">node express 入门教程</a></p>
+<p><a href="http://my.oschina.net/u/568264/blog/193773">nodejs定时任务</a></p>
+<p><a href="http://60sky.com/">一个</span>nodejs博客</a></p>
+<p><a href="http://www.cnblogs.com/yexiaochai/p/3536547.html">【</span>NodeJS 学习笔记</span>04】新闻发布系统</a></p>
+<p><a href="http://www.cnblogs.com/qqloving/p/3541099.html">过年</span>7<span>天乐，学</span>nodejs 也快乐</a></p>
+<p><a href="https://github.com/nqdeng/7-days-nodejs">七天学会</span>NodeJS</a></p>
+<p><a href="http://www.cnblogs.com/zhongweiv/p/nodejs_events.html">Nodejs学习笔记（二）</span>--- 事件模块</a></p>
+<p><a href="http://www.cnblogs.com/liusuqi/p/3735491.html">nodejs入门</a></p>
+<p><a href="https://github.com/zensh/jsgen">angularjs nodejs</a></p>
+<p><a href="http://blog.fens.me/series-nodejs/">从零开始</span>nodejs系列文章</a></p>
+<p><a href="http://debuggable.com/posts/understanding-node-js:4bd98440-45e4-4a9a-8ef7-0f7ecbdd56cb">理解</span>nodejs</a></p>
+<p><a href="http://blog.mixu.net/2011/02/01/understanding-the-node-js-event-loop/">nodejs事件轮询</a></p>
+<p><a href="http://www.nodebeginner.org/index-zh-cn.html">node入门</a></p>
+<p><a href="http://ourjs.com/detail/53e1f281c5910a9806000001">nodejs cms</a></p>
+<p><a href="http://ourjs.com/detail/529ca5950cb6498814000005">Node初学者入门，一本全面的</span>NodeJS教程</a></p>
+<p><a href="http://www.barretlee.com/blog/2015/10/07/debug-nodejs-in-command-line/">NodeJS的代码调试和性能调优</a></p>
+
+<p><span>性能优化</span></p>
+<p>常规优化</span></p>
+<p><a href="http://www.infoq.com/cn/articles/javascript-high-performance-animation-and-page-rendering">Javascript高性能动画与页面渲染</a></p>
+<p><a href="http://isux.tencent.com/h5-performance.html">移动</span>H5<span>前端性能优化指南</a></p>
+<p><a href="http://ued.5173.com/?p=1731">5173首页前端性能优化实践</a></p>
+<p><a href="http://www.uisdc.com/front-end-performance-for-web-designers-and-front-end-developers">给网页设计师和前端开发者看的前端性能优化</a></p>
+<p><a href="http://www.orzpoint.com/profiling-css-and-optimization-notes/">复杂应用的</span> CSS 性能分析和优化建议</a></p>
+<p><a href="http://www.zhangxinxu.com/wordpress/tag/%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD/">张鑫旭</span>——前端性能</a></p>
+<p><a href="http://www.xiaoqiang.org/javascript/font-end-performance-monitor.html">前端性能监控总结</a></p>
+<p><a href="http://udc.weibo.com/2013/05/%E7%BD%91%E7%AB%99%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E4%B9%8Bcss%E6%97%A0%E5%9B%BE%E7%89%87%E6%8A%80%E6%9C%AF/">网站性能优化之</span>CSS无图片技术</a></p>
+<p><a href="http://www.aliued.cn/2013/01/20/web%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E8%BF%9B%E9%98%B6%E8%B7%AF.html">web前端性能优化进阶路</a></p>
+<p><a href="http://my.eoe.cn/tuwandou/archive/4544.html">前端技术：网站性能优化之</span>CSS无图片技术</a></p>
+<p><a href="http://www.baiduux.com/blog/2011/02/15/browser-loading/">浏览器的加载与页面性能优化</a></p>
+<p><a href="http://www.w3ctech.com/p/1503">页面加载中的图片性能优化</a></p>
+<p><a href="http://www.feelcss.com/tag/%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD">Hey——前端性能</a></p>
+<p><a href="http://www.baiduux.com/blog/2010/03/15/html%E4%BC%98%E5%8C%96-2/">html优化</a></p>
+<p><a href="http://www.99css.com/tag/%e6%80%a7%e8%83%bd">99css——性能</a></p>
+<p><a href="http://www.yslow.net/category.php?cid=20">Yslow——性能优化</a></p>
+<p><a href="http://www.cnblogs.com/yslow/">YSLOW中文介绍</a></p>
+<p><a href="http://www.360ito.com/article/40.html">转一篇</span>Yahoo关于网站性能优化的文章，兼谈本站要做的优化</a></p>
+<p><a href="http://www.360doc.com/content/10/0928/09/2588264_56971287.shtml">Yahoo!团队实践分享：网站性能</a></p>
+<p><a href="http://blog.jiasule.com/i/153">网站性能优化指南：什么使我们的网站变慢？</a></p>
+<p><a href="http://www.powereasy.net/helpyou/knowledge/ecommerce/9593.html">网站性能优化实践，减少加载时间，提高用户体验</a></p>
+<p><a href="http://www.umtry.com/archives/747.html">浅谈网站性能优化</span><span> </span>前端篇</a></p>
+<p><a href="http://www.adinnet.cn/blog/designview/2012-7-12/678.html">前端重构实践之如何对网站性能优化？</a></p>
+<p><a href="http://www.gbin1.com/technology/javascript/20130708-front-end-performance-optimization-9/">前端性能优化：使用媒体查询加载指定大小的背景图片</a></p>
+<p><a href="http://www.mykuer.com/post/factors-that-affect-the-speed-of-web-site-open.html">网站性能系列博文</a></p>
+<p><a href="http://tgideas.qq.com/webplat/info/news_version3/804/808/811/m579/201109/41355.shtml">加载，不只是少一点点</a></p>
+<p><a href="http://mzhou.me/article/95310/">前端性能的测试与优化</a></p>
+<p><a href="http://www.gbin1.com/technology/html/20130217-tips-for-speed-up-page-loading/">分享网页加载速度优化的一些技巧？</a></p>
+<p><a href="http://www.f2es.com/images-bytes-opt/">页面加载中的图片性能优化</a></p>
+<p><a href="http://www.tcreator.info/webSchool/website/Front-end-Opt-Yslow.html">web前端优化</span>(基于</span>Yslow)</a></p>
+<p><a href="https://www.qianduan.net/website-performance-optimization-tool.html">网站性能优化工具大全</a></p>
+<p><a href="http://www.alloyteam.com/2012/10/high-performance-html/">【高性能前端</span>1】高性能</span>HTML</a></p>
+<p><a href="http://www.alloyteam.com/2012/10/high-performance-css/">【高性能前端</span>2】高性能</span>CSS</a></p>
+<p><a href="http://coolshell.cn/articles/6470.html">由</span>12306谈谈网站前端性能和后端性能优化</a></p>
+<p><a href="http://www.alloyteam.com/webfrontend/%E5%89%8D%E7%AB%AF%E4%BC%98%E5%8C%96/">AlloyTeam——前端优化</a></p>
+<p><a href="http://www.cnblogs.com/developersupport/p/3248695.html">毫秒必争，前端网页性能最佳实践</a></p>
+<p><a href="http://blog.sina.com.cn/s/blog_6e9d2e0701017kvu.html">网站性能工具</span>Yslow<span>的使用方法</a></p>
+<p><a href="http://www.infoq.com/cn/articles/front-end-engineering-and-performance-optimization-part1">前端工程与性能优化（上）：静态资源版本更新与缓存</a></p>
+<p><a href="http://www.infoq.com/cn/articles/front-end-engineering-and-performance-optimization-part2">前端工程与性能优化（下）：静态资源管理与模板框架</a></p>
+<p><a href="http://blog.jobbole.com/48369/">HTTPS连接的前几毫秒发生了什么</a></p>
+<p><a href="http://uicss.cn/yslow/#more-12319">Yslow</a></p>
+<p><a href="http://blog.smartbear.com/web-performance/essential-web-performance-metrics-a-primer-part-1/">Essential Web Performance Metrics — A Primer, Part 1</a></p>
+<p><a href="http://blog.smartbear.com/performance/essential-web-performance-metrics-part-2/">Essential Web Performance Metrics — Part 2</a></p>
+<p><a href="http://jayli.github.io/blog/data/2011/12/23/yuislide.html">YUISlide,针对移动设备的动画性能优化</a></p>
+<p><a href="http://joelglovier.com/improving-site-performance/">Improving Site Performance</a></p>
+<p><a href="http://segmentfault.com/a/1190000000367899">让网站提速的最佳前端实践</a></p>
+<p><a href="http://sixrevisions.com/web-development/why-website-speed-is-important/">Why Website Speed is Important</a></p>
+<p><a href="https://www.devbridge.com/articles/need-for-speed-how-to-improve-your-website-performance/">Need
+for Speed – How to Improve your Website Performance</a></p>
+<p><a href="https://github.com/amfe/article/issues/1">阿里无线前端性能优化指南</span> (Pt.1 加载期优化</span>)</a></p>
+<p><a href="http://www.infoq.com/cn/articles/javascript-high-performance-animation-and-page-rendering">Javascript高性能动画与页面渲染</a></p>
+<p><a href="http://isux.tencent.com/h5-performance.html">移动</span>H5<span>前端性能优化指南</a></p>
+<p><a href="http://www.uisdc.com/front-end-performance-for-web-designers-and-front-end-developers">给网页设计师和前端开发者看的前端性能优化</a></p>
+<p><a href="http://www.360ito.com/article/40.html">转一篇</span>Yahoo关于网站性能优化的文章，兼谈本站要做的优化</a></p>
+<p><a href="http://www.360doc.com/content/10/0928/09/2588264_56971287.shtml">Yahoo!团队实践分享</span>:网站性能优化的</span>34<span>条黄金守则</span>(一</span>)—内容</a></p>
+<p><a href="http://blog.jiasule.com/i/153">网站性能优化指南：什么使我们的网站变慢？</a></p>
+<p><a href="http://www.gbin1.com/technology/html/20130217-tips-for-speed-up-page-loading/">分享网页加载速度优化的一些技巧</a></p>
+<p><a href="http://www.alloyteam.com/2012/10/high-performance-html/">【高性能前端</span>1】高性能</span>HTML -</a></p>
+<p><a href="http://www.alloyteam.com/2012/10/high-performance-css/">【高性能前端</span>2】高性能</span>CSS</a></p>
+<p><a href="http://www.infoq.com/cn/articles/front-end-engineering-and-performance-optimization-part1">前端工程精粹（一）：静态资源版本更新与缓存</a></p>
+<p><a href="http://www.infoq.com/cn/articles/front-end-engineering-and-performance-optimization-part2">前端工程精粹（二）：静态资源管理与模板框架</a></p>
+<p><a href="https://segmentfault.com/a/1190000000367899">让网站提速的最佳前端实践</a></p>
+<p><a href="https://github.com/amfe/article/issues/1">阿里无线前端性能优化指南</span> (Pt.1 加载期优化</span>)</a></p>
+<p><a href="https://developers.google.com/speed/pagespeed/insights/">pagespeed - 检测网页性能及优化建议</a>&nbsp;</p>
+
+<p><span>前端架构</span></p>
+<p><a href="http://www.zhihu.com/topic/19612641">技术架构</a></p>
+<p><a href="http://saito.im/note/The-Architecture-of-F2E/">前端架构</a></p>
+<p><a href="http://www.zhihu.com/question/24092572">如何成为前端架构师</a></p>
+<p><a href="http://hikejun.com/sharing/2010webrebuild/?file=fe-infrastructure.html">关于前端架构</span>-张克军</a></p>
+<p><a href="http://www.zhihu.com/question/25583350">百度腾讯</span>offer比较（腾讯游戏</span>VS<span>百度基础架构）</a></p>
+
+<p><span>Chrome</span></p>
+<p><a href="https://developer.chrome.com/devtools">Google Chrome 官方</a></p>
+<p><a href="http://www.cnblogs.com/constantince/p/4565261.html">Chrome- 基础</a></p>
+<p><a href="http://www.cnblogs.com/constantince/p/4579121.html">Chrome- 进阶</a></p>
+<p><a href="http://www.cnblogs.com/constantince/p/4585983.html">Chrome- 性能</a></p>
+<p><a href="http://www.cnblogs.com/constantince/p/4607497.html">Chrome- 性能进阶</a></p>
+<p><a href="http://www.cnblogs.com/constantince/p/4624241.html">Chrome- 移动</a></p>
+<p><a href="http://www.cnblogs.com/liyunhua/p/4544738.html">Chrome- 使用技巧</a></p>
+<p><a href="http://www.cnblogs.com/Wayou/p/chrome-console-tips-and-tricks.html">Chrome- Console控制台不完全指南</a></p>
+<p><a href="http://c7sky.com/chrome-devtools-workspace.html">Chrome - Workspace使浏览器变成</span>IDE</a></p>
+<p><a href="http://www.html-js.com/article/Nothing-blind%202975">network面板</a></p>
+<p><a href="http://anti-code.com/devtools-cheatsheet/">chrome开发工具快捷键</a></p>
+<p><a href="http://www.html-js.com/article/2327">chrome调试工具常用功能整理</a></p>
+<p><a href="http://www.iinterest.net/2014/05/09/chrome-dev-tool-workspace/">Chrome 开发工具</span> Workspace 使用</a></p>
+<p><a href="http://www.cppblog.com/deercoder/archive/2011/10/22/158886.html">Chrome神器</span>Vimium快捷键学习记录</a></p>
+<p><a href="http://www.w3cplus.com/sassguide/debug.html">sass调试</span>-w3cplus</a></p>
+<p><a href="http://www.w3cplus.com/tools/how-to-use-chrome-devtools-like-a-pro.html">如何更专业的使用</span>Chrome开发者工具</span>-w3cplus</a></p>
+<p><a href="http://sentsin.com/web/253.html">chrome调试</span>canvas</a></p>
+<p><a href="https://developer.chrome.com/devtools/index">chrome profiles1</a></p>
+<p><a href="http://h5dev.uc.cn/article-25-1.html">chrome profiles2</a></p>
+<p><a href="http://www.oschina.net/translate/performance-optimisation-with-timeline-profiles">chrome profiles3</a></p>
+<p><a href="https://developer.chrome.com/devtools/docs/mobile-emulation">chrome移动版调试</a></p>
+<p><a href="http://ued.taobao.org/blog/2012/06/debug-with-chrome-dev-tool/">chrome调试</a></p>
+<p><a href="http://www.cnblogs.com/QLeelulu/archive/2011/08/28/2156402.html">chrome的调试</a></p>
+<p><a href="https://developer.chrome.com/devtools/docs/commandline-api">chrome console 命令详解</a></p>
+<p><a href="http://www.cnblogs.com/leonkao/p/3809655.html">查看事件绑定</span>1</a></p>
+<p><a href="http://www.cnblogs.com/xiaoyao2011/p/3447421.html">查看事件绑定</span>2</a></p>
+<p><a href="http://segmentfault.com/a/1190000000683599">神器</span>——Chrome开发者工具</span>(一</span>)</a></p>
+<p><a href="https://xinranliu.me/2015-05-22-qiqu-performance/">奇趣百科性能优化</span>(Chrome DevTools 中的</span> Timeline Profils 等工具使用介绍</span>)</a></p>
+<p><a href="http://frontenddev.org/link/15-tips-of-chrome-developer-tools.html">chrome
+开发者工具的</span> 15 个小技巧</a></p>
+<p><a href="http://1ke.co/course/361">Chrome开发者工具不完全指南</a></p>
+<p><a href="http://segmentfault.com/a/1190000003882567">Chrome 开发者工具使用技巧</a></p>
+
+<p><span>Git,SVN,Github</span></p>
+<p><a href="http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000">廖雪峰</span>-Git教程</a></p>
+<p><a href="http://daemon369.github.io/git/2015/03/10/add-ssh-keys-for-github/">GitHub添加</span> SSH keys</a></p>
+<p><a href="http://www.worldhello.net/gotgithub/index.html">gogithub</a></p>
+<p><a href="http://pcottle.github.io/learnGitBranching/">git常规命令练习</a></p>
+<p><a href="https://github.com/xirong/my-git">git的资料整理</a></p>
+<p><a href="http://www.cnblogs.com/fanfan259/p/4810517.html">我所记录的</span>git命令（非常实用）</a></p>
+<p><a href="https://github.com/xirong/my-git/blob/master/git-workflow-tutorial.md">企业开发</span>git工作流模式探索部分休整</a></p>
+<p><a href="https://github.com/phodal/github-roam">GitHub 漫游指南</a></p>
+<p><a href="https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md">GitHub秘籍</a></p>
+<p><a href="http://livoras.com/post/28">使用</span>git和</span>github进行协同开发流程</a></p>
+<p><a href="http://onlywei.github.io/explain-git-with-d3/">动画方式练习</span>git</a></p>
+
+<p><span>博客</span></p>
+<p><a href="http://taobaofed.org/">淘宝前端团队</a></p>
+<p><a href="http://alloyteam.github.io/">Tencent AlloyTeam 2016</a></p>
+<p><a href="http://fex.baidu.com/">FEX 百度</span>WEB前端研发部</a></p>
+<p><a href="http://efe.baidu.com/">EFE 百度</span>EFE(Excellent FrontEnd)技术体系</a></p>
+<p><a href="http://ued.qunar.com/">qunaer UED</a></p>
+<p><a href="https://ruby-china.org/">Ruby-China</a></p>
+<p><a href="https://cnodejs.org/">CNodeJs</a></p>
+<p><a href="https://cnodejs.org/user/i5ting/topics">i5ting狼叔</a></p>
+<p><a href="http://blog.jobbole.com/">伯乐在线</a></p>
+<p><a href="http://www.cnblogs.com/">博客园</a></p>
+<p><a href="http://www.w3cplus.com/">大漠</a></p>
+<p><a href="http://html5ify.com/">朴灵</a></p>
+<p><a href="http://justjavac.com/">justjavac - 迷渡</a></p>
+<p><a href="http://www.ruanyifeng.com/blog/javascript/">阮一峰的网络日志</a></p>
+<p><a href="http://www.cnblogs.com/sanshi/">三生石上</span>-专注于前端（</span>JavaScript、</span>jQuery、</span>ExtJS）</a></p>
+<p><a href="http://www.cnblogs.com/rubylouvre/">司徒正美</span>-Ruby's Louvre</a></p>
+<p><a href="http://www.zhangxinxu.com/wordpress/">张鑫旭</span> - CSSCSSCSS</a></p>
+<p><a href="http://www.cnblogs.com/snandy/">Snandy</a></p>
+
+<p><span>一些检测自己的面试题</span></p>
+<p><a href="https://segmentfault.com/a/1190000000465431">前端开发面试题</a></p>
+<p><a href="https://github.com/markyun/My-blog/blob/master/Front-end-Developer-Questions/Questions-and-Answers/README.md">前端开发面试题</span> - GitHub</a></p>
+<p><a href="https://segmentfault.com/a/1190000004071610">前端开发面试问题及答案整理</a></p>
+<p><a href="https://github.com/hawx1993/Front-end-Interview-questions">front-end
+development interview questions and answers</a></p>
+<p><a href="http://www.html-js.com/article/Large-search-front-team-column%202961">如何面试一名前端开发工程师？</a></p>
+<p><a href="http://www.cnblogs.com/xiaoruo/p/4665163.html">前端实习生面试总结</a></p>
+<p><a href="https://github.com/paddingme/Front-end-Web-Development-Interview-Question">前端开发面试题大收集</a></p>
+<p><a href="http://www.zhihu.com/question/19568008">如何面试前端工程师？</span> - 知乎</a></p>
+<p><a href="http://ourjs.com/detail/5%E4%B8%AA%E7%BB%8F%E5%85%B8%E7%9A%84%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%97%AE%E9%A2%98">5个经典的前端面试问题</a></p>
+<p><a href="http://www.admin10000.com/document/6715.html">10个常见的</span>Node.js面试题</a></p>
+<p><a href="https://github.com/fex-team/interview-questions">百度</span>FEX 的面试</a></p>
+<p><a href="http://www.codeceo.com/article/40-important-html5-interviews.html">40 个重要的</span> HTML5 面试问题及答案</a></p>
+<p><a href="http://blog.jobbole.com/78738/">BAT及各大互联网公司</span>2014前端笔试面试题：</span>JavaScript篇</a></p>
+<p><a href="https://segmentfault.com/a/1190000006921322">TCP三次握手</span>&amp;Render Tree页面渲染</span>=&gt;<span style="font-family:
+宋体">从输入</span>URL到页面显示的过程</a></p>
+<p><a href="https://segmentfault.com/a/1190000004569460">前端进阶</span>-让你升级的网络知识</a></p>
+
+
+<p><span>其他：</span></p>
+<p><a href="http://www.imooc.com/view/506">前端工程师必备的</span>PS<span>技能</span>——切图篇</a></p>
