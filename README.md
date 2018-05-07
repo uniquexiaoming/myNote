@@ -19,6 +19,12 @@ http://blog.jobbole.com/111363/
 5.NodeJS优缺点及适用场景讨论
 https://blog.csdn.net/xiaemperor/article/details/38234979
 
+6.移动端点击（click）事件延迟问题的产生与解决方法
+https://blog.csdn.net/xjun0812/article/details/64919063
+
+7.JavaScript节流函数, 防止大量函数触发解决办法
+https://blog.csdn.net/c_kite/article/details/78765224
+
 <p>本地分支更新：git pull <remote> <branch></p>
 <p>解决代码冲突：git reset --hard</p>
 <p>定制记录格式：git log --pretty=format:"%h - %an, %ar : %s"</p>
