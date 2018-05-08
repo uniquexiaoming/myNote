@@ -22,7 +22,7 @@ https://blog.csdn.net/xiaemperor/article/details/38234979
 6.移动端点击（click）事件延迟问题的产生与解决方法
 https://blog.csdn.net/xjun0812/article/details/64919063
 
-7.JavaScript节流函数, 防止大量函数触发解决办法https://blog.csdn.net/c_kite/article/details/78765224<br />
+7.JavaScript节流函数, 防止大量函数触发解决办法https://blog.csdn.net/redtopic/article/details/69396722<br />
 函数节流（throttle）与函数去抖（debounce）https://www.cnblogs.com/fsjohnhuang/p/4147810.html 
 
 <p>本地分支更新：git pull <remote> <branch></p>
